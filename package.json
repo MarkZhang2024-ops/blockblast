@@ -1,0 +1,17 @@
+{
+  "name": "block-blast-puzzle",
+  "uuid": "c3a8e1d4-7b62-4f90-9a15-6d2e8b4c71aa",
+  "version": "1.0.0",
+  "creator": {
+    "version": "3.8.8",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {}
+  },
+  "description": "Block Blast puzzle game for Cocos Creator 3.8",
+  "scripts": {
+    "test": "node tools/run-tests.mjs",
+    "assets": "node tools/generate-assets.mjs"
+  }
+}

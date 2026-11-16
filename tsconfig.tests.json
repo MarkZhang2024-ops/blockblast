@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "CommonJS",
+    "strict": true,
+    "outDir": "temp/tests-out",
+    "rootDir": ".",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "types": [],
+    "forceConsistentCasingInFileNames": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  },
+  "include": [
+    "assets/scripts/config/**/*.ts",
+    "assets/scripts/core/**/*.ts",
+    "assets/scripts/algorithm/**/*.ts",
+    "assets/scripts/game/**/*.ts",
+    "tests/**/*.ts",
+    "tests/**/*.d.ts"
+  ]
+}

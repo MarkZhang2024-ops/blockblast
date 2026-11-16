@@ -1,0 +1,9 @@
+library/
+temp/
+local/
+build/
+native/
+node_modules/
+profiles/v2/packages/scene.json
+.DS_Store
+*.log
